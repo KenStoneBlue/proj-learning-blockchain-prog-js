@@ -1,0 +1,20 @@
+{
+  "name": "proj-learning-blockchain-prog-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenStoneBlue/proj-learning-blockchain-prog-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenStoneBlue/proj-learning-blockchain-prog-js/issues"
+  },
+  "homepage": "https://github.com/KenStoneBlue/proj-learning-blockchain-prog-js#readme"
+}
